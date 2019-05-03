@@ -15,7 +15,7 @@
     <description>Maven Multimodule project for AEM Style System Guide.</description>
 
     <prerequisites>
-        <maven>3.0.2</maven>
+        <maven>3.6.0</maven>
     </prerequisites>
 
     <!-- ====================================================================== -->
